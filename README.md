@@ -22,7 +22,7 @@ pod 'YHLUI'
 
 ## Author
 
-272789124@qq.com, yanghl01@beantechs.cn
+272789124@qq.com
 
 ## License
 

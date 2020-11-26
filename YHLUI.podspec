@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
     
     s.homepage         = 'https://github.com/272789124@qq.com/YHLUI'
     s.license          = { :type => 'MIT', :file => 'LICENSE' }
-    s.author           = { '272789124@qq.com' => 'yanghl01@beantechs.cn' }
+    s.author           = { '272789124@qq.com' => '272789124@qq.com' }
     s.source           = { :git => 'https://github.com/272789124@qq.com/YHLUI.git', :tag => s.version.to_s }
     s.swift_version = '5.0'
     s.ios.deployment_target = '10.0'
