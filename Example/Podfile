@@ -1,7 +1,8 @@
 source 'https://github.com/CocoaPods/Specs.git'  # 官方库
 source 'https://github.com/yanghl/seanRepo.git'  # 官方库
 platform :ios, '10.0'
-use_frameworks!
+#use_frameworks!
+use_modular_headers!
 
 target 'YHLUI_Example' do
   pod 'YHLUI', :path => '../'
